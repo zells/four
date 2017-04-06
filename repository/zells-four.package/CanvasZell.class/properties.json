@@ -1,0 +1,15 @@
+{
+	"category" : "zells-four",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scale",
+		"canvas" ],
+	"name" : "CanvasZell",
+	"pools" : [
+		 ],
+	"super" : "NamedZell",
+	"type" : "normal" }

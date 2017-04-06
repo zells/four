@@ -1,0 +1,14 @@
+{
+	"category" : "zells-four",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NM 3/27/2017 08:40",
+	"instvars" : [
+		"behaviour" ],
+	"name" : "DynamicZell",
+	"pools" : [
+		 ],
+	"super" : "Zell",
+	"type" : "normal" }

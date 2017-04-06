@@ -1,0 +1,14 @@
+{
+	"category" : "zells-four",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"brushes" ],
+	"name" : "BrushedCanvas",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "zells-four",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NM 3/27/2017 08:38",
+	"instvars" : [
+		"culture" ],
+	"name" : "Dish",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

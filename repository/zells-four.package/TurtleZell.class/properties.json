@@ -1,0 +1,18 @@
+{
+	"category" : "zells-four",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"position",
+		"bearing",
+		"lines",
+		"canvases",
+		"dish" ],
+	"name" : "TurtleZell",
+	"pools" : [
+		 ],
+	"super" : "NamedZell",
+	"type" : "normal" }
