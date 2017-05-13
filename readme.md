@@ -45,3 +45,5 @@ To give it a spin execute the following code.
 
 	dish present: (Dictionary newFrom: {#target -> #turtle. 0 -> #reset}).
 	[ dish present: (Dictionary newFrom: {#target -> #turn}) ] fork.
+## Expected result
+![BrushedCanvas](documentation/BrushedCanvas.png)
